@@ -25,7 +25,8 @@ buildSrc/build
 /integration-tests/build
 /src/asciidoc/build
 spring-test/test-output/
-
+/tech-*/build
+/tech-*/**/build
 # Maven artifacts
 pom.xml
 /target/

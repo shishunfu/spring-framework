@@ -53,3 +53,5 @@ settings.gradle.projectsLoaded {
 		}
 	}
 }
+include 'tech-ssf-spring-samples'
+
